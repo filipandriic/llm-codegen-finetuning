@@ -1,0 +1,23 @@
+deepseek base:
+[RESULT] tgt_tokens=1280  avg_loss=0.608891  perplexity=1.838
+
+deepseek e1:
+[RESULT] tgt_tokens=1280  avg_loss=0.603531  perplexity=1.829
+
+deepseek e2:
+[RESULT] tgt_tokens=1280  avg_loss=0.596287  perplexity=1.815
+
+deepseek e3:
+[RESULT] tgt_tokens=1280  avg_loss=0.587122  perplexity=1.799
+
+tinyllama base:
+[RESULT] tgt_tokens=1283  avg_loss=0.635712  perplexity=1.888
+
+tinyllama e1:
+[RESULT] tgt_tokens=1283  avg_loss=0.631658  perplexity=1.881
+
+tinyllama e2:
+[RESULT] tgt_tokens=1283  avg_loss=0.626742  perplexity=1.872
+
+tinyllama e3:
+[RESULT] tgt_tokens=1283  avg_loss=0.621680  perplexity=1.862

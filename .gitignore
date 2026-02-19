@@ -1,0 +1,21 @@
+# Models
+models/
+*.gguf
+*.bin
+*.pt
+*.safetensors
+
+# Training outputs
+lora_out/
+artifacts/
+merged_hf/
+
+# Datasets
+dataset/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
